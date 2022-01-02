@@ -14,6 +14,7 @@
 - Git
 - Markdawn
 # code examples HTML 
+'''
 { <h2>Мои хобби</h2>
     <ol class="list">
       <li>пусто</li>
@@ -22,8 +23,10 @@
       <li>Путешествия</li>
     </ol>
 }
+'''
 ---
 # code examples HTML 
+'''
 {
 @media (max-width:700px){
     .info{
@@ -31,6 +34,7 @@
         text-align: center;
     }
 }
+'''
 ---
 Плюсы| Минусы
 ---|---
