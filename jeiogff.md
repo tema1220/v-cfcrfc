@@ -15,14 +15,13 @@
 - Markdawn
 # code examples HTML 
 '''
-{ <h2>Мои хобби</h2>
+<h2>Мои хобби</h2>
     <ol class="list">
       <li>пусто</li>
       <li>Быстрая езда на машинах</li>
       <li>Спорт: пусто</li>
       <li>Путешествия</li>
     </ol>
-}
 '''
 ---
 # code examples HTML 
