@@ -7,7 +7,7 @@
 ### e-mail: tema.xil1995@gmail.com
 [ссылка на СС] (https://ru-ru.facebook.com/)
 ---
-# Skils and Proficiency^
+# Skils and Proficiency
 - HTML
 - CSS
 - JS
@@ -16,9 +16,13 @@
 # code examples HTML 
 ```
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+  <h2>Мои хобби</h2>
+    <ol class="list">
+      <li>пусто</li>
+      <li>Быстрая езда на машинах</li>
+      <li>Спорт: пусто</li>
+      <li>Путешествия</li>
+    </ol>
 }
 ```
 ---
