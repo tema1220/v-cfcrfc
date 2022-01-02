@@ -27,15 +27,18 @@
 ```
 ---
 # code examples HTML 
-'''
+```
 {
-@media (max-width:700px){
-    .info{
-        display: block;
-        text-align: center;
-    }
+color: #86898f;
+    margin: 0;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: none;
+    /*text-transform: uppercase;*/
+    /* Aletter-spacing: 15px; */
+    /* word-spacing: 42px; */
 }
-'''
+```
 ---
 Плюсы| Минусы
 ---|---
