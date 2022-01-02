@@ -14,15 +14,13 @@
 - Git
 - Markdawn
 # code examples HTML 
-'''
-<h2>Мои хобби</h2>
-    <ol class="list">
-      <li>пусто</li>
-      <li>Быстрая езда на машинах</li>
-      <li>Спорт: пусто</li>
-      <li>Путешествия</li>
-    </ol>
-'''
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
 ---
 # code examples HTML 
 '''
